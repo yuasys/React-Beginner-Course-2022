@@ -1,3 +1,10 @@
+# エピソード2の学習記録と参考情報
+
+動画教材:[episode2](https://youtu.be/J0yxuHQhpJU)JSX, Components, Props..
+
+
+<hr/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
