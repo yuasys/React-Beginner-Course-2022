@@ -1,3 +1,7 @@
+# epsode3 三項演算子、React のリスト、React の Css
+[動画教材](https://youtu.be/N6E9ZsiWUyQ)
+
+<hr/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
