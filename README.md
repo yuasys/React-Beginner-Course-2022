@@ -1,3 +1,12 @@
+# エピソード1の学習記録と参考情報
+
+動画教材:[episode1](https://youtu.be/U2Wltnv-doo)What is React? How to setup a React App?
+
+
+
+
+<hr/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
